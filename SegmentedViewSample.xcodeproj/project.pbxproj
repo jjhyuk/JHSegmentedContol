@@ -14,6 +14,7 @@
 		941FCF2A250F91FD0042F518 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 941FCF29250F91FD0042F518 /* Assets.xcassets */; };
 		941FCF2D250F91FD0042F518 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 941FCF2B250F91FD0042F518 /* LaunchScreen.storyboard */; };
 		941FCF35250F921A0042F518 /* JHSegmentedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941FCF34250F921A0042F518 /* JHSegmentedView.swift */; };
+		941FCF37250FBA730042F518 /* SegmentView.gif in Resources */ = {isa = PBXBuildFile; fileRef = 941FCF36250FBA730042F518 /* SegmentView.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		941FCF2C250F91FD0042F518 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		941FCF2E250F91FD0042F518 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		941FCF34250F921A0042F518 /* JHSegmentedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JHSegmentedView.swift; sourceTree = "<group>"; };
+		941FCF36250FBA730042F518 /* SegmentView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SegmentView.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				941FCF29250F91FD0042F518 /* Assets.xcassets */,
 				941FCF2B250F91FD0042F518 /* LaunchScreen.storyboard */,
 				941FCF2E250F91FD0042F518 /* Info.plist */,
+				941FCF36250FBA730042F518 /* SegmentView.gif */,
 			);
 			path = SegmentedViewSample;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				941FCF2D250F91FD0042F518 /* LaunchScreen.storyboard in Resources */,
+				941FCF37250FBA730042F518 /* SegmentView.gif in Resources */,
 				941FCF2A250F91FD0042F518 /* Assets.xcassets in Resources */,
 				941FCF28250F91FB0042F518 /* Main.storyboard in Resources */,
 			);
