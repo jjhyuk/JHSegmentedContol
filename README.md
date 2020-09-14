@@ -4,6 +4,7 @@ Custom Segment Cotroll
 
 ![](SegmentedViewSample/SegmentView.gif)
 
+
 ## Usage
 
 ```Swift
@@ -26,3 +27,6 @@ class ViewController: UIViewController, JHSegmentedViewDelegate {
 }
 
 ```
+
+## Story Board Custom Class Setting
+![](StoaryBoardSceenShot.png)
