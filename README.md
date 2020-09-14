@@ -28,5 +28,6 @@ class ViewController: UIViewController, JHSegmentedViewDelegate {
 
 ```
 
+\
 ## Story Board Custom Class Setting
 ![](StoaryBoardSceenShot.png)
